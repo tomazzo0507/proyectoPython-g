@@ -85,7 +85,7 @@ DATABASES = {
     },
     # 'mysql': {
     #     'ENGINE': 'django.db.backends.mysql',
-    #     'NAME': 'nombre_db_mysql',
+    #     'NAME': 'stronghold',
     #     'USER': 'root',
     #     'PASSWORD': '',
     #     'HOST': '127.0.0.1',
@@ -94,9 +94,9 @@ DATABASES = {
 
     # 'postgresql': {
     #     'ENGINE': 'django.db.backends.postgresql',
-    #     'NAME': 'nombre_db_postgres',
+    #     'NAME': 'stronghold',
     #     'USER': 'postgres',
-    #     'PASSWORD': 'tu_contraseña',
+    #     'PASSWORD': '13579',
     #     'HOST': '127.0.0.1',
     #     'PORT': '5432',
     # }
