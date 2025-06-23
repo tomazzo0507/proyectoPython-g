@@ -94,7 +94,7 @@ DATABASES = {
 
     # 'postgresql': {
     #     'ENGINE': 'django.db.backends.postgresql',
-    #     'NAME': 'stronghold',
+    #     'NAME': 'strgonghold',
     #     'USER': 'postgres',
     #     'PASSWORD': '13579',
     #     'HOST': '127.0.0.1',
